@@ -1,7 +1,7 @@
 ### Olá eu sou o Carlos Proença 👋
 
-- 🔭 Estou buscando uma vaga na area de Data Science
-- 🌱 Atualmente apredendeno Python
+- 🔭 Estágiario em Data Science na [Footstats](https://footstats.com.br/#/) 
+- 🌱 Atualmenente desenvolvendo em python
 - 📫 Contate-me no e-mail gutoproenca2010@hotmail.com 
 <div align="center">
   <a href="https://github.com/ProencaC">
